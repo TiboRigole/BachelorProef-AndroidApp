@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidRetailsonar.iml" filepath="$PROJECT_DIR$/AndroidRetailsonar.iml" />
+      <module fileurl="file://D:\School\Industriele Ingenieurswetenschappen\iiw Ba3\Project\RetailSonarProject\AndroidWorkspace\RetailSonar_002.iml" filepath="D:\School\Industriele Ingenieurswetenschappen\iiw Ba3\Project\RetailSonarProject\AndroidWorkspace\RetailSonar_002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>

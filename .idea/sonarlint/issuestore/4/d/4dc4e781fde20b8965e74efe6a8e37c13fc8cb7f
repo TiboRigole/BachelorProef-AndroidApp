@@ -1,0 +1,20 @@
+
+S"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(İ¥İåüÿÿÿÿ
+S"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(İ¥İåüÿÿÿÿ
+S"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(øå´¡ÿÿÿÿÿ
+nsquid:S1450"TRemove the "token" field and declare it as a local variable in the relevant methods.(°É©ñÿÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(„£õòùÿÿÿÿ
+Fsquid:S1905",Remove this unnecessary cast to "ViewPager".(—¯¢•ûÿÿÿÿ
+Usquid:S1905";Remove this unnecessary cast to "BottomNavigationItemView".(š–ûúÿÿÿÿ
+Bsquid:S1604"(Make this anonymous inner class a lambda(¢ÄÊåùÿÿÿÿ
+Bsquid:S1604"(Make this anonymous inner class a lambda(ÚÁ™îÿÿÿÿÿ
+›squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÿİç›üÿÿÿÿ
+›squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(™Î«şÿÿÿÿ
+–squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(´ÜçÒ
+›squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(åİ­şÿÿÿÿ
+›squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ë×ÌĞûÿÿÿÿ
+Rsquid:S1854"8Remove this useless assignment to local variable "view".(´Ó›øÿÿÿÿ
+ksquid:S00116"URename this field "bottom_nav" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…öÏ÷
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+hsquid:MaximumInheritanceDepth"<This class has 7 parents which is greater than 5 authorized.(Ø¡ñ©ùÿÿÿÿ

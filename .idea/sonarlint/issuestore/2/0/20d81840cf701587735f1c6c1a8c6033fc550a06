@@ -1,0 +1,40 @@
+
+Hsquid:S1481"-Remove this unused "photoURI" local variable.(»…÷I8’»éÇ®,
+|squid:UselessImportCheck"URemove this unused import 'android.support.design.internal.BottomNavigationItemView'.(¦îŒ®üÿÿÿÿ
+gsquid:UselessImportCheck"@Remove this unused import 'android.support.annotation.Nullable'.(Ö‹øïüÿÿÿÿ
+hsquid:UselessImportCheck"FRemove this unused import 'com.retailsonar.retailsonar.entities.User'.(§‹­¯
+Isquid:S1604"(Make this anonymous inner class a lambda(¢ÄÊåùÿÿÿÿ8’»éÇ®,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8’»éÇ®,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ÿìû‚øÿÿÿÿ8’»éÇ®,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ï‹ò‚ıÿÿÿÿ8’»éÇ®,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ĞÑÈÿÿÿÿÿ8’»éÇ®,
+nsquid:UselessImportCheck"MRemove this unused import 'com.retailsonar.retailsonar.services.UserService'.(åè–
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8’»éÇ®,
+^squid:UselessImportCheck"<Remove this unused import 'android.content.ContentResolver'.(½Àô“
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÄæéÔıÿÿÿÿ8’»éÇ®,
+osquid:S2259"NA "NullPointerException" could be thrown; "fileOutputStream" is nullable here.(ò›ï½üÿÿÿÿ8’»éÇ®,
+`squid:S1192"KDefine a constant instead of duplicating this literal "afbeelding" 3 times.(ÆğÛ±
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8’»éÇ®,
+Zsquid:UselessImportCheck"8Remove this unused import 'com.google.gson.JsonElement'.(ğ†˜³
+osquid:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(µÙ½ñûÿÿÿÿ8’»éÇ®,
+Wsquid:S1854"<Remove this useless assignment to local variable "photoURI".(»…÷I8’»éÇ®,
+csquid:UselessImportCheck"<Remove this unused import 'android.support.v4.app.Fragment'.(îñ«úÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(¯Óí‘úÿÿÿÿ
+Tsquid:UselessImportCheck"-Remove this unused import 'android.util.Log'.(Ô¦Ø²øÿÿÿÿ
+`squid:UselessImportCheck">Remove this unused import 'android.support.v4.view.ViewPager'.(«˜‘’
+Zsquid:UselessImportCheck"8Remove this unused import 'android.view.LayoutInflater'.(À¯ÑÇ
+csquid:S2259"GA "NullPointerException" could be thrown; "photoFile" is nullable here.(ß´—8’»éÇ®,
+=squid:S1148"#Use a logger to log this exception.(¯Óí‘úÿÿÿÿ
+hsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ŞêĞúÿÿÿÿ
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8’»éÇ®,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8’»éÇ®,
+hsquid:MaximumInheritanceDepth"<This class has 7 parents which is greater than 5 authorized.(ŞêĞúÿÿÿÿ
+gsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(ßìê¯
+Usquid:UselessImportCheck"3Remove this unused import 'android.view.ViewGroup'.(‹îá
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(‡‚îıùÿÿÿÿ8’»éÇ®,
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸üÜ¿

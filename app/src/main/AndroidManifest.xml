@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+        package="com.retailsonar.retailsonar"
+   >
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.USE_FINGERPRINT" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+
+    <application
+        android:name=".CustomApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/vd_vector"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/vd_vector"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="com.retailsonar.retailsonar.MainActivity" >
+            android:screenOrientation="portrait"
+        </activity>
+        <activity
+            android:name="com.retailsonar.retailsonar.LoginActivity"
+            android:label="@string/title_activity_login_admin"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:screenOrientation="portrait"/>
+        <activity android:name="com.retailsonar.retailsonar.admin.AdminHome"
+            android:screenOrientation="portrait"/>
+        <activity android:name="com.retailsonar.retailsonar.expansie.ExpansieManagerHome"
+            android:screenOrientation="portrait"/>
+        <activity android:name="com.retailsonar.retailsonar.regio.RegioManagerActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name="com.retailsonar.retailsonar.regio.Activity_Regio_Options"
+            android:screenOrientation="portrait"/>
+        <activity android:name="com.retailsonar.retailsonar.regio.Activity_Locatie_Pand"
+            android:screenOrientation="portrait"/>
+        <activity android:name="com.retailsonar.retailsonar.regio.TakePicture_Activity"
+            android:screenOrientation="portrait"/>
+        <activity android:name="com.retailsonar.retailsonar.regio.Activity_Regio_ChangeParams"
+            android:screenOrientation="portrait"/>
+        <activity android:name="com.retailsonar.retailsonar.regio.Activity_Invul_Parameters"
+            android:screenOrientation="portrait" />
+        <activity android:name="com.retailsonar.retailsonar.AddFingerPrintActivity"
+            android:screenOrientation="portrait" />
+        <activity android:name="com.retailsonar.retailsonar.SplashActivity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+
+        </activity>
+
+        <provider
+            android:name="android.support.v4.content.FileProvider"
+            android:authorities="com.retailsonar.retailsonar.fileprovider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/file_paths"/>
+        </provider>
+<meta-data
+    android:name="com.google.android.geo.API_KEY"
+    android:value="AIzaSyCqIx9xlyqoBaf274OlDKzqtOfxQsqTsFI">
+
+
+</meta-data>
+
+    </application>
+
+
+
+</manifest>

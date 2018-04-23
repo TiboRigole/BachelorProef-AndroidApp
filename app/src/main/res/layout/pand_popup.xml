@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="350dp"
+    android:layout_height="475dp"
+    android:background="@drawable/round_corners"
+    android:padding="5dp"
+    android:layout_gravity="center"
+    >
+    <TextView
+        android:id="@+id/txtclose"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:textColor="@color/colorBlack"
+        android:text="X"
+        android:textStyle="bold"
+        android:layout_gravity="end"
+        android:gravity="center"
+        android:background="@drawable/cercle_white_blink"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+
+        <ImageView
+            android:id="@+id/afbeelding"
+            android:layout_width="wrap_content"
+            android:layout_height="267dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="15dp"
+             />
+
+        <TextView
+            android:id="@+id/straat"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="5dp"
+            android:text="Straat"
+            android:textColor="@color/colorBlack"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/stad"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Postcode Stad"
+            android:textAlignment="center"
+            android:textColor="@color/colorBlack" />
+
+        <TextView
+            android:id="@+id/land"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="5dp"
+            android:text="Land"
+            android:textColor="@color/colorBlack" />
+
+        <TextView
+            android:id="@+id/oppervlakte"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Oppervlakte"
+            android:textAlignment="center"
+            android:textColor="@color/colorBlack" />
+    </LinearLayout>
+
+</LinearLayout>

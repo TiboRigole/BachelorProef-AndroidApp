@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+<item android:id="@+id/nieuw"
+    android:enabled="true"
+    android:icon="@drawable/ic_nieuw"
+    android:title="Nieuw"
+    app:showAsAction="ifRoom"
+    />
+<item android:id="@+id/home"
+    android:enabled="true"
+    android:icon="@drawable/ic_home"
+    android:title="Home"
+    app:showAsAction="ifRoom"
+    />
+<item android:id="@+id/all"
+    android:enabled="true"
+    android:icon="@drawable/ic_alle_panden"
+    android:title="Alle"
+    app:showAsAction="ifRoom"
+
+    />
+
+</menu>

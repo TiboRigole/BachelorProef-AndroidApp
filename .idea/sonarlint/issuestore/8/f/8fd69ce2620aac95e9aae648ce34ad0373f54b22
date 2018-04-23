@@ -1,0 +1,27 @@
+
+\squid:UselessImportCheck":Remove this unused import 'android.content.res.Resources'.(ÿÃÜó
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8îç„Ç®,
+Dsquid:S1148"#Use a logger to log this exception.(¯Óí‘úÿÿÿÿ8îç„Ç®,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8º¡ŠÇ®,
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(§­ó¦8ùòÆ®,
+Dsquid:S1604"(Make this anonymous inner class a lambda(¶ç¬8ùòÆ®,
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(´ÜçÒ8ùòÆ®,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(èÉë‹8ùòÆ®,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ùòÆ®,
+Dsquid:S1148"#Use a logger to log this exception.(¯Óí‘úÿÿÿÿ8º¡ŠÇ®,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ûíˆÿÿÿÿÿ8¯­÷Æ®,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ò•†îşÿÿÿÿ8ùòÆ®,
+Dsquid:S1604"(Make this anonymous inner class a lambda(Ÿ½Ëæ8ùòÆ®,
+usquid:S1450"TRemove the "token" field and declare it as a local variable in the relevant methods.(°É©ñÿÿÿÿÿ8ùòÆ®,
+Isquid:S1604"(Make this anonymous inner class a lambda(Æü…Êøÿÿÿÿ8¯­÷Æ®,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(äíŞî8ùòÆ®,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(„£õòùÿÿÿÿ8ùòÆ®,
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸üÜ¿8¿À„Ç®,
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸üÜ¿8º¡ŠÇ®,
+Vsquid:UselessImportCheck"4Remove this unused import 'android.util.TypedValue'.(é¸Óû
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ùòÆ®,

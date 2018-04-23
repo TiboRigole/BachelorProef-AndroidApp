@@ -1,0 +1,25 @@
+<resources>
+
+
+    <string name="app_name">RetailSonar</string>
+    <string name="title_activity_login_regio_manager">LoginRegioManager</string>
+    <string name="title_activity_login_expantie_manager">LoginExpantieManager</string>
+    <string name="title_activity_login_admin">LoginAdmin</string>
+    <string name="title_activity_expantie_manager_home">ExpantieManagerHome</string>
+    <string name="create_account">Nog geen account? \n Contacteer uw expansiemanager</string>
+    <string name="melding_admin">U bent admin \n onze app heeft voor u geen mogelijkheden \n gelieve verder te gaan naar de site</string>
+    <string name="melding_expansie">U bent expansiemanager \n onze app heeft voor u geen mogelijkheden \n gelieve verder te gaan naar de site</string>
+    <string name="addFingerPrint">Vingerafdruk toevoegen</string>
+
+
+
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="with_fingerprint">With Fingerprint</string>
+    <string name="with_fingerprint_and_password">With Fingerprint and Password</string>
+    <string name="add_finger_print_account">Voeg fingerprint toe aan account</string>
+    <string name="authenticate_fingerprint">Error authenticating fingerprint</string>
+    <string name="auth_successful">Fingerprint authentication successful</string>
+    <string name="Unknown_permission_request">Unrecognized permission request</string>
+    <string name="permission_refused">" User refused Fingerprint permission"</string>
+</resources>

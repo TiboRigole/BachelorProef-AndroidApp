@@ -1,0 +1,59 @@
+
+Ysquid:UnusedPrivateMethod"6Remove this unused private "getSourceAsString" method.(³š÷–
+]squid:UnusedPrivateMethod"5Remove this unused private "getTitleAsString" method.(ù³Ãüüÿÿÿÿ
+^squid:UnusedPrivateMethod";Remove this unused private "getDescriptionAsString" method.(˜½Þõ
+Rsquid:S1197"8Move the array designator from the variable to the type.(¼Í˜Áþÿÿÿÿ
+Rsquid:S1197"8Move the array designator from the variable to the type.(º‰»§ùÿÿÿÿ
+Gsquid:S1068"2Remove this unused "mCallApiButton" private field.(­”†Â
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(µØ¥å
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Å’Ç¼ýÿÿÿÿ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(÷§ë
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(÷§ë
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(õÏÜ•ûÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(É÷Èºûÿÿÿÿ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(…Äà
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(’“Ÿúÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.( û’ûÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(²¡€ûÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ŸÿŠÂ
+rsquid:S1488"]Immediately return this expression instead of assigning it to the temporary variable "myUri".(ª¼‘‘
+Osquid:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+€"squid:ClassVariableVisibilityCheck"TMake myThread a static final constant or non-public and provide accessors if needed.(­¡Àì
+Gsquid:S1135"2Complete the task associated to this TODO comment.(©¸‰Ë
+<squid:S1481"'Remove this unused "id" local variable.(ÚƒÒä
+gsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(˜ýÉ
+Jsquid:S2209"5Change this instance-reference to a static reference.(Þ‰¾Î
+hsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Åë©±ûÿÿÿÿ
+[squid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+[squid:S2259"AA "NullPointerException" could be thrown; "url" is nullable here.(Ä¡±”øÿÿÿÿ
+?squid:S00108")Either remove or fill this block of code.(á¢–¬
+<squid:S1604"(Make this anonymous inner class a lambda(»¬ãS
+Bsquid:S1604"(Make this anonymous inner class a lambda(ò›·õýÿÿÿÿ
+Bsquid:S1604"(Make this anonymous inner class a lambda(¹áÛïýÿÿÿÿ
+Bsquid:S1604"(Make this anonymous inner class a lambda(¹áÛïýÿÿÿÿ
+=squid:S1185"(Remove this method to simply inherit it.(ßû¢½
+Bsquid:S1185"(Remove this method to simply inherit it.(Ýßéàúÿÿÿÿ
+=squid:S1185"(Remove this method to simply inherit it.(öÿÕÅ
+Ksquid:S1854"6Remove this useless assignment to local variable "id".(ÚƒÒä
+Dsquid:S1611"/Remove the parentheses around the "v" parameter(ù¢¥ƒ
+Isquid:S1611"/Remove the parentheses around the "v" parameter(¸ÝË—þÿÿÿÿ
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ“Àœ
+esquid:UselessImportCheck">Remove this unused import 'android.provider.CalendarContract'.(üÿ–Ìúÿÿÿÿ
+Tsquid:UselessImportCheck"3Remove this unused import 'android.view.DragEvent'.(÷ŒÚS
+\squid:UselessImportCheck":Remove this unused import 'android.content.ContentValues'.(å’µÞ
+`squid:UselessImportCheck">Remove this unused import 'android.support.v4.view.ViewPager'.(«˜‘’
+\squid:UselessImportCheck"5Remove this unused import 'android.view.MotionEvent'.(˜šËÞúÿÿÿÿ
+csquid:UselessImportCheck"ARemove this unused import 'android.support.v4.view.PagerAdapter'.(–ø¦Ö
+Vsquid:UselessImportCheck"4Remove this unused import 'android.util.TypedValue'.(é¸Óû
+Xsquid:UselessImportCheck"6Remove this unused import 'android.widget.ScrollView'.(êÑ†é
+csquid:UselessImportCheck"<Remove this unused import 'com.google.common.io.LineReader'.(†¢õ•ýÿÿÿÿ
+Wsquid:UselessImportCheck"0Remove this unused import 'java.time.DayOfWeek'.(Óò»¸þÿÿÿÿ
+_squid:UselessImportCheck"8Remove this unused import 'android.content.ContentUris'.(Å¹ä­ùÿÿÿÿ
+\squid:UselessImportCheck":Remove this unused import 'android.content.res.Resources'.(ÿÃÜó
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(¯Óí‘úÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
